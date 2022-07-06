@@ -2,7 +2,7 @@
 
 ## Curso C# básico
 
-###Curso com fundamentos básicos e projetos em console
+### Curso com fundamentos básicos e projetos em console
 #### Projetos executados:
 - Calculadora
 - Cronometro
