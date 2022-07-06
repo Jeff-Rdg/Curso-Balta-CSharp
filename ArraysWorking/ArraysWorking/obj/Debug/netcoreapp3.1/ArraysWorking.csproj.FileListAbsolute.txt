@@ -1,0 +1,13 @@
+C:\Users\jefferson.rodrigues\source\repos\ArraysWorking\ArraysWorking\bin\Debug\netcoreapp3.1\ArraysWorking.exe
+C:\Users\jefferson.rodrigues\source\repos\ArraysWorking\ArraysWorking\bin\Debug\netcoreapp3.1\ArraysWorking.deps.json
+C:\Users\jefferson.rodrigues\source\repos\ArraysWorking\ArraysWorking\bin\Debug\netcoreapp3.1\ArraysWorking.runtimeconfig.json
+C:\Users\jefferson.rodrigues\source\repos\ArraysWorking\ArraysWorking\bin\Debug\netcoreapp3.1\ArraysWorking.runtimeconfig.dev.json
+C:\Users\jefferson.rodrigues\source\repos\ArraysWorking\ArraysWorking\bin\Debug\netcoreapp3.1\ArraysWorking.dll
+C:\Users\jefferson.rodrigues\source\repos\ArraysWorking\ArraysWorking\bin\Debug\netcoreapp3.1\ArraysWorking.pdb
+C:\Users\jefferson.rodrigues\source\repos\ArraysWorking\ArraysWorking\obj\Debug\netcoreapp3.1\ArraysWorking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefferson.rodrigues\source\repos\ArraysWorking\ArraysWorking\obj\Debug\netcoreapp3.1\ArraysWorking.AssemblyInfoInputs.cache
+C:\Users\jefferson.rodrigues\source\repos\ArraysWorking\ArraysWorking\obj\Debug\netcoreapp3.1\ArraysWorking.AssemblyInfo.cs
+C:\Users\jefferson.rodrigues\source\repos\ArraysWorking\ArraysWorking\obj\Debug\netcoreapp3.1\ArraysWorking.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.rodrigues\source\repos\ArraysWorking\ArraysWorking\obj\Debug\netcoreapp3.1\ArraysWorking.dll
+C:\Users\jefferson.rodrigues\source\repos\ArraysWorking\ArraysWorking\obj\Debug\netcoreapp3.1\ArraysWorking.pdb
+C:\Users\jefferson.rodrigues\source\repos\ArraysWorking\ArraysWorking\obj\Debug\netcoreapp3.1\ArraysWorking.genruntimeconfig.cache

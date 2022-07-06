@@ -1,0 +1,14 @@
+C:\Users\jefferson.rodrigues\source\repos\MyApp\MyApp\bin\Debug\netcoreapp3.1\EditorHtml.exe
+C:\Users\jefferson.rodrigues\source\repos\MyApp\MyApp\bin\Debug\netcoreapp3.1\EditorHtml.deps.json
+C:\Users\jefferson.rodrigues\source\repos\MyApp\MyApp\bin\Debug\netcoreapp3.1\EditorHtml.runtimeconfig.json
+C:\Users\jefferson.rodrigues\source\repos\MyApp\MyApp\bin\Debug\netcoreapp3.1\EditorHtml.runtimeconfig.dev.json
+C:\Users\jefferson.rodrigues\source\repos\MyApp\MyApp\bin\Debug\netcoreapp3.1\EditorHtml.dll
+C:\Users\jefferson.rodrigues\source\repos\MyApp\MyApp\bin\Debug\netcoreapp3.1\EditorHtml.pdb
+C:\Users\jefferson.rodrigues\source\repos\MyApp\MyApp\obj\Debug\netcoreapp3.1\EditorHtml.csproj.AssemblyReference.cache
+C:\Users\jefferson.rodrigues\source\repos\MyApp\MyApp\obj\Debug\netcoreapp3.1\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefferson.rodrigues\source\repos\MyApp\MyApp\obj\Debug\netcoreapp3.1\EditorHtml.AssemblyInfoInputs.cache
+C:\Users\jefferson.rodrigues\source\repos\MyApp\MyApp\obj\Debug\netcoreapp3.1\EditorHtml.AssemblyInfo.cs
+C:\Users\jefferson.rodrigues\source\repos\MyApp\MyApp\obj\Debug\netcoreapp3.1\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.rodrigues\source\repos\MyApp\MyApp\obj\Debug\netcoreapp3.1\EditorHtml.dll
+C:\Users\jefferson.rodrigues\source\repos\MyApp\MyApp\obj\Debug\netcoreapp3.1\EditorHtml.pdb
+C:\Users\jefferson.rodrigues\source\repos\MyApp\MyApp\obj\Debug\netcoreapp3.1\EditorHtml.genruntimeconfig.cache

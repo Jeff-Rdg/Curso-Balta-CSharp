@@ -1,0 +1,13 @@
+C:\Users\jefferson.rodrigues\source\repos\ExceptionTrat\ExceptionTrat\bin\Debug\netcoreapp3.1\ExceptionTrat.exe
+C:\Users\jefferson.rodrigues\source\repos\ExceptionTrat\ExceptionTrat\bin\Debug\netcoreapp3.1\ExceptionTrat.deps.json
+C:\Users\jefferson.rodrigues\source\repos\ExceptionTrat\ExceptionTrat\bin\Debug\netcoreapp3.1\ExceptionTrat.runtimeconfig.json
+C:\Users\jefferson.rodrigues\source\repos\ExceptionTrat\ExceptionTrat\bin\Debug\netcoreapp3.1\ExceptionTrat.runtimeconfig.dev.json
+C:\Users\jefferson.rodrigues\source\repos\ExceptionTrat\ExceptionTrat\bin\Debug\netcoreapp3.1\ExceptionTrat.dll
+C:\Users\jefferson.rodrigues\source\repos\ExceptionTrat\ExceptionTrat\bin\Debug\netcoreapp3.1\ExceptionTrat.pdb
+C:\Users\jefferson.rodrigues\source\repos\ExceptionTrat\ExceptionTrat\obj\Debug\netcoreapp3.1\ExceptionTrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefferson.rodrigues\source\repos\ExceptionTrat\ExceptionTrat\obj\Debug\netcoreapp3.1\ExceptionTrat.AssemblyInfoInputs.cache
+C:\Users\jefferson.rodrigues\source\repos\ExceptionTrat\ExceptionTrat\obj\Debug\netcoreapp3.1\ExceptionTrat.AssemblyInfo.cs
+C:\Users\jefferson.rodrigues\source\repos\ExceptionTrat\ExceptionTrat\obj\Debug\netcoreapp3.1\ExceptionTrat.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.rodrigues\source\repos\ExceptionTrat\ExceptionTrat\obj\Debug\netcoreapp3.1\ExceptionTrat.dll
+C:\Users\jefferson.rodrigues\source\repos\ExceptionTrat\ExceptionTrat\obj\Debug\netcoreapp3.1\ExceptionTrat.pdb
+C:\Users\jefferson.rodrigues\source\repos\ExceptionTrat\ExceptionTrat\obj\Debug\netcoreapp3.1\ExceptionTrat.genruntimeconfig.cache

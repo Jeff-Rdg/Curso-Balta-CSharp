@@ -1,0 +1,14 @@
+C:\Users\jefferson.rodrigues\source\repos\WorkingWithDates\WorkingWithDates\bin\Debug\netcoreapp3.1\WorkingWithDates.exe
+C:\Users\jefferson.rodrigues\source\repos\WorkingWithDates\WorkingWithDates\bin\Debug\netcoreapp3.1\WorkingWithDates.deps.json
+C:\Users\jefferson.rodrigues\source\repos\WorkingWithDates\WorkingWithDates\bin\Debug\netcoreapp3.1\WorkingWithDates.runtimeconfig.json
+C:\Users\jefferson.rodrigues\source\repos\WorkingWithDates\WorkingWithDates\bin\Debug\netcoreapp3.1\WorkingWithDates.runtimeconfig.dev.json
+C:\Users\jefferson.rodrigues\source\repos\WorkingWithDates\WorkingWithDates\bin\Debug\netcoreapp3.1\WorkingWithDates.dll
+C:\Users\jefferson.rodrigues\source\repos\WorkingWithDates\WorkingWithDates\bin\Debug\netcoreapp3.1\WorkingWithDates.pdb
+C:\Users\jefferson.rodrigues\source\repos\WorkingWithDates\WorkingWithDates\obj\Debug\netcoreapp3.1\WorkingWithDates.csproj.AssemblyReference.cache
+C:\Users\jefferson.rodrigues\source\repos\WorkingWithDates\WorkingWithDates\obj\Debug\netcoreapp3.1\WorkingWithDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefferson.rodrigues\source\repos\WorkingWithDates\WorkingWithDates\obj\Debug\netcoreapp3.1\WorkingWithDates.AssemblyInfoInputs.cache
+C:\Users\jefferson.rodrigues\source\repos\WorkingWithDates\WorkingWithDates\obj\Debug\netcoreapp3.1\WorkingWithDates.AssemblyInfo.cs
+C:\Users\jefferson.rodrigues\source\repos\WorkingWithDates\WorkingWithDates\obj\Debug\netcoreapp3.1\WorkingWithDates.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.rodrigues\source\repos\WorkingWithDates\WorkingWithDates\obj\Debug\netcoreapp3.1\WorkingWithDates.dll
+C:\Users\jefferson.rodrigues\source\repos\WorkingWithDates\WorkingWithDates\obj\Debug\netcoreapp3.1\WorkingWithDates.pdb
+C:\Users\jefferson.rodrigues\source\repos\WorkingWithDates\WorkingWithDates\obj\Debug\netcoreapp3.1\WorkingWithDates.genruntimeconfig.cache

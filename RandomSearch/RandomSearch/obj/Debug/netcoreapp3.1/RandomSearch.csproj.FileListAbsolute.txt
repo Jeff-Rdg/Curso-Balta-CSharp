@@ -1,0 +1,14 @@
+C:\Users\jefferson.rodrigues\source\repos\RandomSearch\RandomSearch\bin\Debug\netcoreapp3.1\RandomSearch.exe
+C:\Users\jefferson.rodrigues\source\repos\RandomSearch\RandomSearch\bin\Debug\netcoreapp3.1\RandomSearch.deps.json
+C:\Users\jefferson.rodrigues\source\repos\RandomSearch\RandomSearch\bin\Debug\netcoreapp3.1\RandomSearch.runtimeconfig.json
+C:\Users\jefferson.rodrigues\source\repos\RandomSearch\RandomSearch\bin\Debug\netcoreapp3.1\RandomSearch.runtimeconfig.dev.json
+C:\Users\jefferson.rodrigues\source\repos\RandomSearch\RandomSearch\bin\Debug\netcoreapp3.1\RandomSearch.dll
+C:\Users\jefferson.rodrigues\source\repos\RandomSearch\RandomSearch\bin\Debug\netcoreapp3.1\RandomSearch.pdb
+C:\Users\jefferson.rodrigues\source\repos\RandomSearch\RandomSearch\obj\Debug\netcoreapp3.1\RandomSearch.csproj.AssemblyReference.cache
+C:\Users\jefferson.rodrigues\source\repos\RandomSearch\RandomSearch\obj\Debug\netcoreapp3.1\RandomSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefferson.rodrigues\source\repos\RandomSearch\RandomSearch\obj\Debug\netcoreapp3.1\RandomSearch.AssemblyInfoInputs.cache
+C:\Users\jefferson.rodrigues\source\repos\RandomSearch\RandomSearch\obj\Debug\netcoreapp3.1\RandomSearch.AssemblyInfo.cs
+C:\Users\jefferson.rodrigues\source\repos\RandomSearch\RandomSearch\obj\Debug\netcoreapp3.1\RandomSearch.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.rodrigues\source\repos\RandomSearch\RandomSearch\obj\Debug\netcoreapp3.1\RandomSearch.dll
+C:\Users\jefferson.rodrigues\source\repos\RandomSearch\RandomSearch\obj\Debug\netcoreapp3.1\RandomSearch.pdb
+C:\Users\jefferson.rodrigues\source\repos\RandomSearch\RandomSearch\obj\Debug\netcoreapp3.1\RandomSearch.genruntimeconfig.cache
